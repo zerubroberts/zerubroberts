@@ -1,8 +1,45 @@
+# Zerub Roberts
+**Data Scientist | ML Engineer | BI Consultant**
+
 <div align="center">
 
-<table>
-<tr>
-<td width="40%" valign="top" align="center">
+## [🌐 zerubroberts.com](https://zerubroberts.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerubroberts)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zerubroberts@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zerubroberts)
+
+</div>
+
+**Transforming data into strategic business value**
+- 8+ years of industry leadership
+- $2M+ in cost savings generated
+- 50+ projects successfully delivered
+
+## 🚀 About Me
+
+I'm a **Data Science Leader** with **8+ years** of experience transforming complex data into strategic business value. I specialize in building enterprise-scale ML solutions and BI architectures that deliver measurable impact across multiple industries.
+
+**Current Roles:**
+- **Data Consultant Lead** @ Cast Solutions
+- **Data Analytics Instructor** @ Pathstream (Amazon & Walmart)
+- **Independent ML Consultant**
+
+**Core Expertise:**
+- End-to-End ML Pipelines & MLOps
+- Enterprise BI Architecture (Tableau, Power BI, Qlik)
+- Predictive Analytics & Forecasting
+- Cloud-Native Solutions (AWS, Azure, GCP)
+
+**Key Achievements:**
+- $2M+ in cost savings generated
+- 50+ projects successfully delivered
+- 100+ hours/day saved through automation
+- 98% student success rate in training programs
+
+## 🎨 ASCII Portrait
+
+<div align="center">
 
 ```
       . ..........                 .....:
@@ -56,53 +93,7 @@
 *.....:+***....====
 ```
 
-</td>
-<td width="60%" valign="top">
-
-# Zerub Roberts
-**Data Scientist | ML Engineer | BI Consultant**
-
-<div align="center">
-
-## [🌐 zerubroberts.com](https://zerubroberts.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerubroberts)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zerubroberts@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zerubroberts)
-
 </div>
-
-**Transforming data into strategic business value**
-- 8+ years of industry leadership
-- $2M+ in cost savings generated
-- 50+ projects successfully delivered
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🚀 About Me
-
-I'm a **Data Science Leader** with **8+ years** of experience transforming complex data into strategic business value. I specialize in building enterprise-scale ML solutions and BI architectures that deliver measurable impact across multiple industries.
-
-**Current Roles:**
-- **Data Consultant Lead** @ Cast Solutions
-- **Data Analytics Instructor** @ Pathstream (Amazon & Walmart)
-- **Independent ML Consultant**
-
-**Core Expertise:**
-- End-to-End ML Pipelines & MLOps
-- Enterprise BI Architecture (Tableau, Power BI, Qlik)
-- Predictive Analytics & Forecasting
-- Cloud-Native Solutions (AWS, Azure, GCP)
-
-**Key Achievements:**
-- $2M+ in cost savings generated
-- 50+ projects successfully delivered
-- 100+ hours/day saved through automation
-- 98% student success rate in training programs
 
 ### 📰 Featured Work & Media
 
