@@ -1,419 +1,553 @@
 <div align="center">
 
-# 🚀 Zerub Roberts
-### **Senior Data Scientist & AI Solutions Architect**
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Zerub%20Roberts&fontSize=90&fontAlignY=38&desc=Senior%20Data%20Scientist%20%26%20AI%20Solutions%20Architect&descAlignY=55&descSize=25&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Transforming+Raw+Data+into+Gold;Building+AI+That+Drives+Real+Impact;8%2B+Years+%7C+%242M%2B+Saved+%7C+50%2B+Projects" alt="Typing SVG" />
+<br/>
 
-<br>
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://zerubroberts.com"><img src="https://img.shields.io/badge/🌐_Portfolio-zerubroberts.com-0A66C2?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:zerubroberts@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zerubroberts"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+61402681799"><img src="https://img.shields.io/badge/+61_402_681_799-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-## 🌐 **[zerubroberts.com](https://zerubroberts.com)** 
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/zerubroberts)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:zerubroberts@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/zerubroberts)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+61402681799)
-
-<br>
-
-### 💡 **Current Mission**
-*Leading data transformation initiatives across Fortune 500 companies while mentoring the next generation of data professionals at Amazon & Walmart*
-
-<br>
-
+<!-- KEY METRICS -->
 <table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Years-8%2B-blue?style=for-the-badge&logo=calendar&logoColor=white" />
-<br><sub><b>Industry Experience</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Savings-%242M%2B-green?style=for-the-badge&logo=trending-up&logoColor=white" />
-<br><sub><b>Cost Optimization</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Projects-50%2B-orange?style=for-the-badge&logo=rocket&logoColor=white" />
-<br><sub><b>Successfully Delivered</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Hours-100%2Fday-purple?style=for-the-badge&logo=clock&logoColor=white" />
-<br><sub><b>Time Saved via AI</b></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/>
+      <br/><b>8+ Years</b>
+      <br/><sub>Industry Experience</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="50"/>
+      <br/><b>$2M+ Saved</b>
+      <br/><sub>Cost Optimization</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
+      <br/><b>50+ Projects</b>
+      <br/><sub>Successfully Delivered</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
+      <br/><b>100 hrs/day</b>
+      <br/><sub>Time Saved via AI</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a **Data Science Leader** with **8+ years** of experience transforming complex data into strategic business value. I specialize in building enterprise-scale ML solutions and BI architectures that deliver measurable impact across multiple industries.
-
-**Current Roles:**
-- **Data Consultant Lead** @ Cast Solutions
-- **Data Analytics Instructor** @ Pathstream (Amazon & Walmart)
-- **Independent ML Consultant**
-
-**Core Expertise:**
-- End-to-End ML Pipelines & MLOps
-- Enterprise BI Architecture (Tableau, Power BI, Qlik)
-- Predictive Analytics & Forecasting
-- Cloud-Native Solutions (AWS, Azure, GCP)
-
-**Key Achievements:**
-- $2M+ in cost savings generated
-- 50+ projects successfully delivered
-- 100+ hours/day saved through automation
-- 98% student success rate in training programs
-
-
-### 📰 Featured Work & Media
-
-**Case Studies & Customer Stories:**
-- [Australian National University - Qlik Solutions](https://www.qlik.com/us/solutions/customers/customer-stories/australian-national-university) - Data analytics transformation in higher education
-- [InDebted - Improving Collections Strategy by 30% with ML](https://www.indebted.co/blog/guides/improving-collections-strategy-by-30-with-machine-learning/) - Machine learning implementation case study
-- [6clicks - Power BI Dashboard Implementation](https://www.6clicks.com/resources/blog/introducing-the-new-6clicks-dashboards-on-power-bi) - Enterprise BI solution deployment
-- [Energy Safe Victoria - Safety Analytics Platform](https://safetyinsights.au/case-studies/energysafevictoria) - Safety compliance and analytics system
-
-**Media Coverage:**
-- [ABC News - ANZSCO Occupation Lists Analysis](https://www.abc.net.au/news/2019-08-17/anzsco-occupation-lists-need-updating/11413518) - Data analysis for workforce classification systems
-
-## 💼 Professional Timeline
-
-```mermaid
-gantt
-    title Career Journey
-    dateFormat YYYY-MM-DD
-    section Leadership Roles
-    Cast Solutions Lead     :active, lead, 2018-08-01, 2024-12-31
-    Pathstream Mentor      :active, mentor, 2021-06-01, 2024-12-31
-    section Previous Roles
-    InDebted Data Scientist :done, indebted, 2021-09-01, 2023-04-30
-    Data-Driven Consultant :done, datadriven, 2023-08-01, 2024-01-31
-    headspace Analyst      :done, headspace, 2016-06-01, 2018-08-01
-    section Education
-    Master's Degree        :done, masters, 2017-01-01, 2019-12-31
-    Bachelor's Degree      :done, bachelors, 2013-01-01, 2016-12-31
+```typescript
+const zerub = {
+    title: "Senior Data Scientist & AI Solutions Architect",
+    location: "Melbourne, Australia 🇦🇺",
+    experience: "8+ years transforming data into strategic business value",
+    
+    currentRoles: [
+        "Data Consultant Lead @ Cast Solutions",
+        "Data Analytics Instructor @ Pathstream (Amazon & Walmart)",
+        "Independent ML Consultant"
+    ],
+    
+    expertise: [
+        "End-to-End ML Pipelines & MLOps",
+        "Enterprise BI Architecture (Tableau, Power BI, Qlik)",
+        "Predictive Analytics & Forecasting",
+        "Cloud-Native Solutions (AWS, Azure, GCP)"
+    ],
+    
+    impact: {
+        costSavings: "$2M+",
+        projectsDelivered: 50+,
+        automationImpact: "100+ hours/day",
+        studentSuccessRate: "98%"
+    }
+};
 ```
 
-**Current Leadership (2018-Present)**
-- **Cast Solutions:** Leading multi-sector consulting across engineering, utilities, healthcare, and technology
-- **Pathstream:** Training Amazon & Walmart professionals in data analytics
+> **Currently:** Leading data transformation initiatives across Fortune 500 companies while mentoring the next generation of data professionals at Amazon & Walmart.
 
-**Previous Impact Roles**
-- **InDebted (2021-2023):** Built ML models saving 100hrs/day, 40% email deflection
-- **Data-Driven (2023-2024):** Enterprise Power BI solutions for Fortune 500 clients
-- **headspace (2016-2018):** Healthcare analytics and visualization systems
+<br/>
 
-## 🛠️ Technical Arsenal & Expertise
+---
 
-<details>
-<summary>🔽 <b>Click to explore my comprehensive tech stack with proficiency levels</b></summary>
-
-### 🎯 **Skill Proficiency Matrix**
+## 💼 Featured Projects & Impact
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📊 **Business Intelligence & Analytics**
-```
-Tableau          ████████████ 95% (8+ years)
-Power BI         ███████████  90% (6+ years)  
-Qlik Sense       ██████████   85% (5+ years)
-DAX              ████████     80% (4+ years)
-Data Modeling    ████████████ 95% (8+ years)
-```
+### 🤖 Automated Email Triaging System
+**FinTech | Production | $2M+ Annual Savings**
 
-#### 🤖 **Machine Learning & AI**
-```
-Python           ████████████ 95% (8+ years)
-TensorFlow       ████████     80% (4+ years)
-AWS Sagemaker    ███████████  90% (5+ years)
-OpenCV           ████████     75% (3+ years)
-MLFlow/MLOps     ██████████   85% (4+ years)
-```
+Built intelligent email classification system revolutionizing customer service operations.
+
+**🎯 The Challenge**
+- Manual email processing consuming 40% of operational costs
+- Scaling issues with increasing customer volume
+
+**💡 The Solution**
+- ML-powered text classification with AWS Sagemaker
+- Real-time routing and automated responses
+- Full MLOps pipeline implementation
+
+**📊 The Results**
+- ✅ 40% email deflection rate
+- ✅ 100 hours saved daily
+- ✅ 70% accuracy maintained
+- ✅ $2M+ annual cost savings
+
+**Tech Stack:** `Python` `AWS Sagemaker` `NLP` `MLOps` `MLFlow`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🗄️ **Data Engineering & Databases**
-```
-SQL              ████████████ 95% (8+ years)
-Snowflake        ██████████   85% (4+ years)
-Apache Spark     ████████     80% (5+ years)
-Azure Data Lake  ███████████  90% (6+ years)
-ETL/ELT          ████████████ 95% (8+ years)
-```
+### ⚡ Predictive Power Failure System
+**Utilities | Live Production | Multi-State Deployment**
 
-#### ☁️ **Cloud Platforms**
-```
-Microsoft Azure  ████████████ 95% (6+ years)
-AWS              ███████████  90% (5+ years)
-Google Cloud     ████████     75% (3+ years)
-Docker           ████████     80% (4+ years)
-Kubernetes       ██████       60% (2+ years)
-```
+Weather-based predictive maintenance system for power grid management.
+
+**🎯 The Challenge**
+- Reactive maintenance causing extended outages
+- Inability to predict weather-related failures
+
+**💡 The Solution**
+- Ensemble ML models analyzing weather patterns
+- Real-time monitoring and alerting system
+- Integration with existing maintenance workflows
+
+**📊 The Results**
+- ✅ Now deployed across Eastern Victoria
+- ✅ Proactive maintenance scheduling
+- ✅ Reduced outage duration
+- ✅ Cost savings through prevention
+
+**Tech Stack:** `Python` `Ensemble Models` `Real-time APIs` `Weather Data`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👷 Safety Compliance Detection
+**Construction | Active | Real-time Monitoring**
+
+Computer vision system for automated PPE compliance monitoring.
+
+**🎯 The Challenge**
+- Manual safety monitoring prone to human error
+- Delayed incident detection
+
+**💡 The Solution**
+- Real-time computer vision detection
+- Instant SMS alert system
+- AWS Rekognition integration
+
+**📊 The Results**
+- ✅ Automated 24/7 monitoring
+- ✅ Instant violation alerts
+- ✅ Improved safety compliance
+- ✅ Reduced workplace incidents
+
+**Tech Stack:** `OpenCV` `AWS Rekognition` `Computer Vision` `SMS API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Multi-Channel Volume Forecasting
+**Customer Service | Production | 74% MAPE**
+
+Advanced demand forecasting for resource optimization.
+
+**🎯 The Challenge**
+- Unpredictable customer service demand patterns
+- Inefficient resource allocation
+
+**💡 The Solution**
+- Time series forecasting across multiple channels
+- Country-specific models
+- Integrated with roster management
+
+**📊 The Results**
+- ✅ 74% MAPE accuracy
+- ✅ Proactive resource allocation
+- ✅ Reduced customer wait times
+- ✅ Optimized staffing costs
+
+**Tech Stack:** `Time Series Analysis` `Python` `Statistical Modeling`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-### 🏆 **Technology Badges & Certifications**
+## 🛠️ Technology Stack
 
 <div align="center">
 
-#### 📊 Business Intelligence & Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=Qlik&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🔥 Core Expertise
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 📊 Business Intelligence
+<img src="https://skillicons.dev/icons?i=python,r&theme=light" width="50"/>
+<br/><br/>
+**Tableau** ████████████ 95%<br/>
+**Power BI** ███████████░ 90%<br/>
+**Qlik Sense** ██████████░░ 85%<br/>
+**Data Modeling** ████████████ 95%<br/>
+<br/>
+`8+ years` • `200+ dashboards` • `Fortune 500 clients`
+
+</td>
+<td align="center" width="33%">
 
 #### 🤖 Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" width="50"/>
+<br/><br/>
+**Python** ████████████ 95%<br/>
+**AWS Sagemaker** ███████████░ 90%<br/>
+**TensorFlow** ████████░░░░ 80%<br/>
+**MLOps** ██████████░░ 85%<br/>
+<br/>
+`8+ years` • `50+ models` • `30+ deployments`
 
-#### 🗄️ Data Engineering & Databases
-![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-#### ☁️ Cloud Platforms & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+#### ☁️ Cloud & Data Engineering
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=light" width="50"/>
+<br/><br/>
+**Azure** ████████████ 95%<br/>
+**AWS** ███████████░ 90%<br/>
+**Snowflake** ██████████░░ 85%<br/>
+**Spark** ████████░░░░ 80%<br/>
+<br/>
+`6+ years` • `100+ pipelines` • `Multi-cloud`
 
-#### 🔧 Development & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</td>
+</tr>
+</table>
+
+### 🎨 Tech Stack Overview
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-### 🔄 **Technology Stack in Motion**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,gcp,docker,kubernetes,git,vscode,linux,postgres,mongodb,redis&theme=dark&perline=6" />
-</div>
-
-</div>
-
----
-
-### 📈 **Specialization Areas**
-
-<div align="center">
-
-| 🎯 **Domain** | 🔧 **Primary Tools** | 📊 **Experience Level** | 🏆 **Key Projects** |
-|:---|:---|:---:|:---:|
-| **Predictive Analytics** | Python, TensorFlow, AWS | Expert (8+ years) | 50+ models |
-| **Business Intelligence** | Tableau, Power BI, Qlik | Expert (8+ years) | 200+ dashboards |
-| **MLOps & Deployment** | AWS, Docker, MLFlow | Advanced (5+ years) | 30+ deployments |
-| **Data Engineering** | Spark, Snowflake, SQL | Expert (8+ years) | 100+ pipelines |
-| **Computer Vision** | OpenCV, AWS Rekognition | Intermediate (3+ years) | 5+ CV projects |
-
-</div>
-
-</details>
-
-## 🏆 Featured Projects
-
-### 📧 **Automated Email Triaging System**
-**Industry:** FinTech | **Status:** Production | **Impact:** $2M+ Annual Savings
-
-Built and deployed an intelligent email classification system that revolutionized customer service operations:
-- **Challenge:** Manual email processing consuming 40% of operational costs
-- **Solution:** ML-powered text classification with real-time routing and automated responses
-- **Results:** 40% email deflection rate, 100 hours saved daily, 70% accuracy maintained
-- **Technology:** Python, AWS Sagemaker, NLP, MLOps pipeline
-
-### ⚡ **Predictive Power Failure System**
-**Industry:** Utilities | **Status:** Live Production | **Impact:** Multi-state Deployment
-
-Developed a weather-based predictive maintenance system for power grid management:
-- **Challenge:** Reactive maintenance causing extended outages
-- **Solution:** Ensemble ML models with real-time monitoring and alerting
-- **Results:** Now deployed across Eastern Victoria Power Maintenance
-- **Technology:** Python, Machine Learning, Ensemble Models, Real-time APIs
-
-### 👷 **Safety Compliance Detection**
-**Industry:** Construction | **Status:** Active | **Impact:** Real-time Safety Monitoring
-
-Created a computer vision system for automated PPE compliance monitoring:
-- **Challenge:** Manual safety monitoring prone to human error
-- **Solution:** Real-time computer vision with instant alert system
-- **Results:** Automated detection of safety violations with instant SMS alerts
-- **Technology:** OpenCV, AWS Rekognition, Computer Vision, SMS Integration
-
-### 📈 **Volume Forecasting Model**
-**Industry:** Customer Service | **Status:** Production | **Impact:** 74% MAPE Accuracy
-
-Developed multi-channel demand forecasting for resource optimization:
-- **Challenge:** Unpredictable customer service demand patterns
-- **Solution:** Advanced time series forecasting across multiple channels and countries
-- **Results:** 74% MAPE accuracy enabling proactive resource allocation
-- **Technology:** Time Series Analysis, Python, Statistical Modeling
-
-### 🗺️ **Geo-Analytics & Route Optimization**
-**Industry:** Logistics | **Status:** Deployed | **Impact:** Cost Optimization
-
-Built sophisticated geo-analytics solution for delivery optimization:
-- **Challenge:** Inefficient routing and delivery operations
-- **Solution:** Advanced geo-analytics with route optimization algorithms
-- **Results:** Significant cost savings through optimized logistics operations
-- **Technology:** ArcGIS, Google Maps API, Python, Optimization Algorithms
-
-### 📊 **Agent Performance Dashboard**
-**Industry:** Healthcare | **Status:** Live | **Impact:** 100+ Agents Tracked
-
-Comprehensive performance monitoring system for customer service operations:
-- **Challenge:** Need for unified performance tracking across large teams
-- **Solution:** Real-time dashboard with KPIs and unified scoring system
-- **Results:** Enhanced productivity tracking and performance optimization
-- **Technology:** Tableau, SQL, KPI Design, Real-time Analytics
-
-## 📚 My Qlik Sense Extensions
-
-<div align="center">
-  
-| Repository | Description | Stars |
-|:---|:---|:---:|
-| [qlik-risk-heatmap](https://github.com/zerubroberts/qlik-risk-heatmap) | Risk Matrix/Heatmap extension for Qlik Sense | ![Stars](https://img.shields.io/github/stars/zerubroberts/qlik-risk-heatmap?style=flat-square) |
-| [qlik-kpi-guage-card-extension](https://github.com/zerubroberts/qlik-kpi-guage-card-extension) | Multiple Gauge KPIs in a Card format | ![Stars](https://img.shields.io/github/stars/zerubroberts/qlik-kpi-guage-card-extension?style=flat-square) |
-| [qlik-sc-responses-visualizer](https://github.com/zerubroberts/qlik-sc-responses-visualizer) | Assessment responses visualizer | ![Stars](https://img.shields.io/github/stars/zerubroberts/qlik-sc-responses-visualizer?style=flat-square) |
-
-</div>
-
-## 🎓 Education & Certifications
-
-- 🎓 **Master of Data Analytics** - Deakin University (2017-2019)
-- 🎓 **Bachelor of Computer Science** - Andhra University (2013-2016)
-- 📜 **Machine Learning Specialization** - University of Washington
-- 📜 **Data Architect Certification**
-- 📜 **Microsoft Azure Machine Learning** - Microsoft Professional Program
-- 📜 **Fundamentals of Quantitative Modeling** - University of Pennsylvania
-- 📜 **Apache Spark Fundamentals**
-- 📜 **Google Cloud Platform** - Computing, Storage and Security
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerubroberts&layout=compact&theme=default&langs_count=6)
-
-</div>
-
-## 🏢 Professional Journey & Experience
-
-<details>
-<summary>🔽 <b>Click to explore my career timeline with detailed achievements</b></summary>
+## 📊 Career Journey
 
 ```mermaid
 gantt
     title Professional Timeline
-    dateFormat  YYYY-MM-DD
-    section Career Journey
-    Cast Solutions (Lead)     :active, 2018-08-01, 2024-12-31
-    Pathstream (Mentor)       :active, 2021-06-01, 2024-12-31
-    InDebted (Data Scientist) :done, 2021-09-01, 2023-04-30
-    Data-Driven (Consultant)  :done, 2023-08-01, 2024-01-31
+    dateFormat YYYY-MM-DD
+    section Current Leadership
+    Cast Solutions - Data Consultant Lead          :active, cast, 2018-08-01, 2024-12-31
+    Pathstream - Data Analytics Instructor         :active, path, 2021-06-01, 2024-12-31
+    section Previous Impact Roles
+    InDebted - Data Scientist                      :done, indebt, 2021-09-01, 2023-04-30
+    Data-Driven - Senior Power BI Consultant       :done, dd, 2023-08-01, 2024-01-31
+    headspace - Data & Insights Analyst            :done, hs, 2016-06-01, 2018-08-01
     section Education
-    Master's Degree          :done, 2017-01-01, 2019-12-31
-    Bachelor's Degree         :done, 2013-01-01, 2016-12-31
+    Master of Data Analytics - Deakin University   :done, masters, 2017-01-01, 2019-12-31
 ```
 
-### 🏆 **Current Roles & Leadership**
+<details>
+<summary><b>🏢 View Detailed Experience Timeline</b></summary>
+
+<br/>
+
+### 🚀 Current Leadership Roles
+
+#### **Data Consultant Lead** @ Cast Solutions
+*Aug 2018 - Present (6+ years)*
+
+**Leading multi-sector data transformation initiatives**
+
+- 🏢 **Multi-industry expertise:** Engineering, utilities, healthcare, technology
+- 📊 **Delivery record:** 50+ end-to-end BI solutions
+- 🔮 **Innovation:** Predictive analytics, geo-analytics, computer vision, IoT integration
+- 👥 **Leadership:** Managing teams of 5-8 data professionals
+- 🏆 **Recognition:** Qlik APAC Partner of the Year (ANU Energy Dashboard)
+
+**Key Technologies:** Tableau, Power BI, Qlik, Python, SQL, AWS, Azure, ML
+
+---
+
+#### **Data Analytics Instructor** @ Pathstream
+*Jun 2021 - Present (3+ years)*
+
+**Mentoring Amazon & Walmart professionals in data analytics**
+
+- 📚 **Students trained:** 500+ professionals
+- 🎯 **Success rate:** 98% pass rate in Tableau certification
+- ⭐ **Rating:** 4.9/5.0 instructor rating
+- 📖 **Curriculum:** Created project-specific assessment rubrics and hands-on projects
+
+---
+
+### 📈 Previous High-Impact Roles
+
+#### **Data Scientist** @ InDebted
+*Sep 2021 - Apr 2023 (1.5 years)*
+
+**Remote-first, globally distributed FinTech startup**
+
+**🏆 Key Achievement:** Built automated email triaging system saving $2M+ annually
+
+- 🤖 **ML Deployment:** Text classification achieving 70% accuracy, 40% email deflection
+- 📊 **Forecasting:** Multi-channel volume forecasting with 74% MAPE accuracy
+- ⚙️ **MLOps:** Full CI/CD pipeline with MLFlow tracking and model monitoring
+- 💰 **Business Impact:** Quantified $-value impact across multiple ML models
+
+**Tech Stack:** Python, AWS Sagemaker, Snowflake, DBT, Dagster, MLFlow
+
+---
+
+#### **Senior Power BI Consultant** @ Data-Driven
+*Aug 2023 - Jan 2024*
+
+**Enterprise BI solutions for Fortune 500 clients**
+
+- 🏢 **Clients:** Fortune 500 companies across multiple industries
+- ⚡ **Performance:** Achieved 80% faster dashboard load times through optimization
+- 📊 **Strategic impact:** Enabled C-suite data-driven decision making
+- 🎯 **Expertise:** Advanced DAX, data modeling, performance tuning
+
+---
+
+#### **Data & Insights Analyst** @ headspace
+*Jun 2017 - Aug 2018*
+
+**Healthcare analytics and visualization systems**
+
+- 📊 **Standardization:** Designed tableau dashboards now used across 130+ centers
+- 🗺️ **Innovation:** Integrated ABS data with internal sources for optimal center locations
+- 🤖 **Automation:** Python scripts for monthly/quarterly data extracts and reporting
+- 📈 **Research support:** Custom visualizations for complex dataset interactions
+
+</details>
+
+<br/>
+
+---
+
+## 🎓 Education & Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🚀 **Data Consultant Lead** @ Cast Solutions
-*Aug 2018 - Present (6+ years)*
+### 🎓 Academic Background
 
-**🎯 Key Achievements:**
-- 🏢 Leading **multi-sector consulting** (engineering, utilities, healthcare, tech)
-- 🔧 Built **50+ end-to-end BI solutions**
-- 📊 Delivered **predictive analytics** across 6 different industries
-- 💡 **Innovation highlights:** Geo-analytics, computer vision, IoT integration
+**Master of Data Analytics** (83%)  
+*Deakin University* • 2017-2019
 
-**🛠️ Technical Leadership:**
-- Architected solutions integrating **SQL, APIs, IoT sensors**
-- Pioneered **MLOps practices** for client deployments
-- Led teams of **5-8 data professionals**
+**Bachelor of Science**  
+Mathematics & Computer Science  
+*Andhra University* • 2013-2016
 
 </td>
 <td width="50%">
 
-#### 👨‍🏫 **Data Analytics Mentor** @ Pathstream  
-*Jun 2021 - Present (3+ years)*
+### 📜 Professional Certifications
 
-**🎯 Educational Impact:**
-- 📚 Mentoring **Amazon & Walmart** employees
-- 🎓 **500+ students** guided through Tableau certification
-- 📊 **98% pass rate** in final assessments
-- 🏆 **Top-rated instructor** (4.9/5.0 rating)
-
-**📈 Curriculum Development:**
-- Created **project-specific assessment rubrics**
-- Built **automated feedback systems**
-- Designed **hands-on industry projects**
+✅ **Data Architect** - Qlik  
+✅ **AutoML Implementation Specialist** - Qlik  
+✅ **Professional Program in Data Science** - Microsoft  
+✅ **Machine Learning Specialization** - University of Washington  
+✅ **Azure Machine Learning** - Microsoft  
+✅ **Apache Spark Fundamentals**  
+✅ **Google Cloud Platform** - Computing, Storage & Security  
 
 </td>
 </tr>
 </table>
 
----
-
-### 📈 **Previous High-Impact Roles**
-
-#### 🔬 **Data Scientist** @ InDebted *(Sep 2021 - Apr 2023)*
-```
-Impact Metrics: 40% cost reduction | 1200 emails/day automated | $2M+ savings
-```
-- 🤖 **ML Model Deployment:** Text classification achieving 70% accuracy
-- 📊 **Forecasting Excellence:** 74% MAPE across multi-channel predictions  
-- ⚙️ **MLOps Implementation:** Full CI/CD pipeline with MLFlow tracking
-- 💰 **Business Value:** Delivered **$2M+ annual cost savings**
-
-#### 📊 **Senior Power BI Consultant** @ Data-Driven *(Aug 2023 - Jan 2024)*
-```
-Specialization: Enterprise BI | DAX Optimization | Data Modeling
-```
-- 🏢 **Enterprise Solutions:** Delivered BI for **Fortune 500 clients**
-- ⚡ **Performance Optimization:** 80% faster dashboard load times
-- 📈 **Strategic Impact:** Enabled **data-driven decision making** across C-suite
+<br/>
 
 ---
 
-### 🎓 **Early Career & Foundation**
-- **2016-2018:** Data & Insights Analyst @ headspace *(Healthcare Analytics)*
-- **2021:** Learning Advisor @ QUT *(Academic Data Science)*
+## 🌟 Open Source Contributions
 
-</details>
+### Qlik Sense Extensions
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/heat-map.png" width="60"/>
+<br/>
+<b>Risk Heatmap</b>
+<br/>
+<sub>Risk Matrix visualization extension</sub>
+<br/><br/>
+<a href="https://github.com/zerubroberts/qlik-risk-heatmap">
+<img src="https://img.shields.io/github/stars/zerubroberts/qlik-risk-heatmap?style=social"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/speedometer.png" width="60"/>
+<br/>
+<b>KPI Gauge Card</b>
+<br/>
+<sub>Multiple gauge KPIs in card format</sub>
+<br/><br/>
+<a href="https://github.com/zerubroberts/qlik-kpi-guage-card-extension">
+<img src="https://img.shields.io/github/stars/zerubroberts/qlik-kpi-guage-card-extension?style=social"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/survey.png" width="60"/>
+<br/>
+<b>Response Visualizer</b>
+<br/>
+<sub>Assessment responses visualization</sub>
+<br/><br/>
+<a href="https://github.com/zerubroberts/qlik-sc-responses-visualizer">
+<img src="https://img.shields.io/github/stars/zerubroberts/qlik-sc-responses-visualizer?style=social"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 💬 Let's Connect
+## 📰 Featured Work & Media
 
-I'm always interested in discussing data science opportunities, consulting engagements, and innovative solutions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Primary Website:** [zerubroberts.com](https://zerubroberts.com)  
-**Email:** [zerubroberts@gmail.com](mailto:zerubroberts@gmail.com)  
-**Phone:** [+61 402 681 799](tel:+61402681799)  
-**LinkedIn:** [linkedin.com/in/zerubroberts](https://www.linkedin.com/in/zerubroberts)
+### 📰 Case Studies & Customer Stories
+
+**🏛️ [Australian National University](https://www.qlik.com/us/solutions/customers/customer-stories/australian-national-university)**  
+Data analytics transformation in higher education  
+*Featured: Energy consumption dashboard for ANU Below Zero Initiative*
+
+**💳 [InDebted - ML Collections Strategy](https://www.indebted.co/blog/guides/improving-collections-strategy-by-30-with-machine-learning/)**  
+30% improvement in collections strategy using ML  
+*Featured: Machine learning implementation case study*
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 Media Coverage
+
+**📊 [6clicks - Power BI Dashboard](https://www.6clicks.com/resources/blog/introducing-the-new-6clicks-dashboards-on-power-bi)**  
+Enterprise BI solution deployment  
+*Featured: Power BI dashboard implementation*
+
+**⚡ [Energy Safe Victoria](https://safetyinsights.au/case-studies/energysafevictoria)**  
+Safety compliance and analytics system  
+*Featured: Safety analytics platform development*
+
+**📰 [ABC News - ANZSCO Analysis](https://www.abc.net.au/news/2019-08-17/anzsco-occupation-lists-need-updating/11413518)**  
+Data analysis for workforce classification systems  
+*Featured: Data-driven policy recommendations*
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-*Transforming data into strategic insights that drive business value*
+## 📫 Let's Connect
+
+<div align="center">
+
+### 💬 Open for Opportunities
+
+I'm always interested in discussing:
+- 🚀 Data Science & AI Consulting Projects
+- 💼 Enterprise BI & Analytics Solutions
+- 🎓 Training & Mentorship Opportunities
+- 🤝 Collaboration on Innovative Data Projects
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
+<br/>
+<b>Website</b>
+<br/>
+<a href="https://zerubroberts.com">zerubroberts.com</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/email.png" width="60"/>
+<br/>
+<b>Email</b>
+<br/>
+<a href="mailto:zerubroberts@gmail.com">zerubroberts@gmail.com</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
+<br/>
+<b>LinkedIn</b>
+<br/>
+<a href="https://linkedin.com/in/zerubroberts">@zerubroberts</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/phone.png" width="60"/>
+<br/>
+<b>Phone</b>
+<br/>
+<a href="tel:+61402681799">+61 402 681 799</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerubroberts&layout=compact&theme=vue&hide_border=true&langs_count=8)
+
+<br/>
+
+---
+
+<sub>💡 *Transforming raw data into strategic insights that drive measurable business value*</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
