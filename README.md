@@ -1,45 +1,88 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Zerub%20Roberts&fontSize=90&fontAlignY=38&desc=Senior%20Data%20Scientist%20%26%20AI%20Solutions%20Architect&descAlignY=55&descSize=25&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=ZERUB%20ROBERTS&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-<br/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Senior+Data+Scientist+%26+AI+Solutions+Architect;ML+Engineer+%7C+BI+Expert+%7C+Cloud+Architect;Transforming+Data+into+Strategic+Value" alt="Typing SVG" />
+</h1>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://zerubroberts.com"><img src="https://img.shields.io/badge/🌐_Portfolio-zerubroberts.com-0A66C2?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:zerubroberts@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zerubroberts"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+61402681799"><img src="https://img.shields.io/badge/+61_402_681_799-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Melbourne,_Australia-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_8+_Years_Experience-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_50+_Projects_Delivered-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/💰_$2M+_Cost_Savings-purple?style=flat-square" />
 </p>
 
 <br/>
 
-<!-- KEY METRICS -->
+<!-- WEBSITES & PRODUCTS -->
+<h3>🌐 My Digital Presence</h3>
+
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/>
-      <br/><b>8+ Years</b>
-      <br/><sub>Industry Experience</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="50"/>
-      <br/><b>$2M+ Saved</b>
-      <br/><sub>Cost Optimization</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-      <br/><b>50+ Projects</b>
-      <br/><sub>Successfully Delivered</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-      <br/><b>100 hrs/day</b>
-      <br/><sub>Time Saved via AI</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://zerubroberts.com">
+<img src="https://img.icons8.com/fluency/80/000000/domain.png"/>
+<br/><b>Portfolio Website</b>
+<br/><sub>zerubroberts.com</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/zerubroberts">
+<img src="https://img.icons8.com/fluency/80/000000/github.png"/>
+<br/><b>GitHub Projects</b>
+<br/><sub>Open Source Extensions</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/zerubroberts">
+<img src="https://img.icons8.com/fluency/80/000000/linkedin.png"/>
+<br/><b>LinkedIn Profile</b>
+<br/><sub>Professional Network</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:zerubroberts@gmail.com">
+<img src="https://img.icons8.com/fluency/80/000000/email.png"/>
+<br/><b>Email Contact</b>
+<br/><sub>zerubroberts@gmail.com</sub>
+</a>
+</td>
+</tr>
 </table>
+
+<br/>
+
+<!-- CURRENT ROLES -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/briefcase.png"/>
+<br/><b>Data Consultant Lead</b>
+<br/><sub>Cast Solutions</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/teacher.png"/>
+<br/><b>Data Analytics Instructor</b>
+<br/><sub>Pathstream (Amazon & Walmart)</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/consultant.png"/>
+<br/><b>Independent ML Consultant</b>
+<br/><sub>Enterprise Solutions</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- IMPACT METRICS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_100+_Hours%2FDay_Saved_Through_AI_Automation-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_98%25_Student_Success_Rate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Fortune_500_Clients-orange?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -49,35 +92,101 @@
 
 ## 🎯 About Me
 
-```typescript
-const zerub = {
-    title: "Senior Data Scientist & AI Solutions Architect",
-    location: "Melbourne, Australia 🇦🇺",
-    experience: "8+ years transforming data into strategic business value",
-    
-    currentRoles: [
-        "Data Consultant Lead @ Cast Solutions",
-        "Data Analytics Instructor @ Pathstream (Amazon & Walmart)",
-        "Independent ML Consultant"
-    ],
-    
-    expertise: [
-        "End-to-End ML Pipelines & MLOps",
-        "Enterprise BI Architecture (Tableau, Power BI, Qlik)",
-        "Predictive Analytics & Forecasting",
-        "Cloud-Native Solutions (AWS, Azure, GCP)"
-    ],
-    
-    impact: {
-        costSavings: "$2M+",
-        projectsDelivered: 50+,
-        automationImpact: "100+ hours/day",
-        studentSuccessRate: "98%"
-    }
-};
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 Who I Am
+
+I'm a **Senior Data Scientist & AI Solutions Architect** with **8+ years** of proven expertise in transforming complex data ecosystems into strategic business value. I specialize in building enterprise-scale ML solutions, predictive analytics systems, and BI architectures that deliver measurable ROI across Fortune 500 companies.
+
+### 🎯 What I Do
+
+**🚀 Current Focus Areas:**
+- Leading end-to-end data transformation projects for enterprise clients
+- Building production-grade ML pipelines with full MLOps implementation  
+- Architecting cloud-native BI solutions on Azure, AWS, and GCP
+- Mentoring data professionals at Amazon & Walmart through Pathstream
+
+**💼 Professional Roles:**
+```yaml
+Primary:
+  - Data Consultant Lead @ Cast Solutions (2018-Present)
+  - Data Analytics Instructor @ Pathstream (2021-Present)
+  
+Consulting:
+  - Enterprise BI Architecture & Implementation
+  - ML Strategy & Production Deployment
+  - Data Engineering & Cloud Migration
 ```
 
-> **Currently:** Leading data transformation initiatives across Fortune 500 companies while mentoring the next generation of data professionals at Amazon & Walmart.
+</td>
+<td width="40%" valign="top">
+
+### 📊 By The Numbers
+
+```
+📈 BUSINESS IMPACT
+├─ $2M+    Cost savings generated
+├─ 50+     Projects delivered
+├─ 100hrs  Daily time saved via AI
+└─ 200+    Dashboards deployed
+
+🎓 EDUCATION IMPACT  
+├─ 500+    Students mentored
+├─ 98%     Success rate
+├─ 4.9/5   Instructor rating
+└─ Top     Rated educator
+
+🏆 TECHNICAL DEPTH
+├─ 8yrs    Python & SQL
+├─ 8yrs    BI platforms (Tableau/Qlik/PowerBI)
+├─ 6yrs    Cloud architecture
+└─ 5yrs    MLOps & production ML
+```
+
+### 🌟 Core Strengths
+
+**Technical Leadership** → Enterprise solution architecture  
+**Business Acumen** → Translating data into strategic value  
+**Full-Stack Data** → From data engineering to ML deployment  
+**Communication** → Simplifying complex concepts for stakeholders
+
+</td>
+</tr>
+</table>
+
+### 🎖️ Notable Achievements
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
+<br/><b>Qlik APAC Partner</b>
+<br/><sub>of the Year Winner</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/savings.png" width="60"/>
+<br/><b>$2M+ Saved</b>
+<br/><sub>for clients annually</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+<br/><b>40% Deflection</b>
+<br/><sub>Email automation system</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="60"/>
+<br/><b>500+ Trained</b>
+<br/><sub>Amazon & Walmart pros</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/news.png" width="60"/>
+<br/><b>ABC News</b>
+<br/><sub>Featured data work</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -202,64 +311,131 @@ Advanced demand forecasting for resource optimization.
 
 ### 🔥 Core Expertise
 
+</div>
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" valign="top">
+<div align="center">
 
 #### 📊 Business Intelligence
-<img src="https://skillicons.dev/icons?i=python,r&theme=light" width="50"/>
+
+<img src="https://skillicons.dev/icons?i=python,r&theme=light" height="40"/>
+
 <br/><br/>
-**Tableau** ████████████ 95%<br/>
-**Power BI** ███████████░ 90%<br/>
-**Qlik Sense** ██████████░░ 85%<br/>
-**Data Modeling** ████████████ 95%<br/>
+
+</div>
+
+| Technology | Proficiency | Experience |
+|:-----------|:------------|:-----------|
+| **Tableau** | ![95%](https://progress-bar.dev/95?width=120&color=E97627) | 8+ years |
+| **Power BI** | ![90%](https://progress-bar.dev/90?width=120&color=F2C811) | 6+ years |
+| **Qlik Sense** | ![85%](https://progress-bar.dev/85?width=120&color=009848) | 5+ years |
+| **Data Modeling** | ![95%](https://progress-bar.dev/95?width=120&color=0078D4) | 8+ years |
+
+<div align="center">
 <br/>
-`8+ years` • `200+ dashboards` • `Fortune 500 clients`
+<sub>📊 200+ dashboards • Fortune 500 clients</sub>
+</div>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
+<div align="center">
 
 #### 🤖 Machine Learning & AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" width="50"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" height="40"/>
+
 <br/><br/>
-**Python** ████████████ 95%<br/>
-**AWS Sagemaker** ███████████░ 90%<br/>
-**TensorFlow** ████████░░░░ 80%<br/>
-**MLOps** ██████████░░ 85%<br/>
+
+</div>
+
+| Technology | Proficiency | Experience |
+|:-----------|:------------|:-----------|
+| **Python** | ![95%](https://progress-bar.dev/95?width=120&color=3776AB) | 8+ years |
+| **AWS Sagemaker** | ![90%](https://progress-bar.dev/90?width=120&color=FF9900) | 5+ years |
+| **TensorFlow** | ![80%](https://progress-bar.dev/80?width=120&color=FF6F00) | 4+ years |
+| **MLOps** | ![85%](https://progress-bar.dev/85?width=120&color=0194E2) | 4+ years |
+
+<div align="center">
 <br/>
-`8+ years` • `50+ models` • `30+ deployments`
+<sub>🤖 50+ models • 30+ deployments</sub>
+</div>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
+<div align="center">
 
 #### ☁️ Cloud & Data Engineering
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=light" width="50"/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=light" height="40"/>
+
 <br/><br/>
-**Azure** ████████████ 95%<br/>
-**AWS** ███████████░ 90%<br/>
-**Snowflake** ██████████░░ 85%<br/>
-**Spark** ████████░░░░ 80%<br/>
+
+</div>
+
+| Technology | Proficiency | Experience |
+|:-----------|:------------|:-----------|
+| **Azure** | ![95%](https://progress-bar.dev/95?width=120&color=0078D4) | 6+ years |
+| **AWS** | ![90%](https://progress-bar.dev/90?width=120&color=FF9900) | 5+ years |
+| **Snowflake** | ![85%](https://progress-bar.dev/85?width=120&color=29B5E8) | 4+ years |
+| **Spark** | ![80%](https://progress-bar.dev/80?width=120&color=E25A1C) | 5+ years |
+
+<div align="center">
 <br/>
-`6+ years` • `100+ pipelines` • `Multi-cloud`
+<sub>☁️ 100+ pipelines • Multi-cloud expertise</sub>
+</div>
 
 </td>
 </tr>
 </table>
 
-### 🎨 Tech Stack Overview
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<div align="center">
+
+### 🎨 Complete Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Business Intelligence**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+**Machine Learning & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Data Engineering**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
@@ -487,67 +663,154 @@ Data analysis for workforce classification systems
 
 ---
 
-## 📫 Let's Connect
+## 💬 Let's Build Something Great Together
 
 <div align="center">
 
-### 💬 Open for Opportunities
-
-I'm always interested in discussing:
-- 🚀 Data Science & AI Consulting Projects
-- 💼 Enterprise BI & Analytics Solutions
-- 🎓 Training & Mentorship Opportunities
-- 🤝 Collaboration on Innovative Data Projects
+I'm passionate about solving complex data challenges and delivering solutions that drive real business value. Whether you're looking to transform your data infrastructure, deploy production ML systems, or build world-class analytics capabilities, I'd love to discuss how we can work together.
 
 <br/>
+
+### 🤝 I'm Available For
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
-<br/>
-<b>Website</b>
-<br/>
-<a href="https://zerubroberts.com">zerubroberts.com</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/000000/consulting.png"/>
+<br/><b>Data Science Consulting</b>
+<br/><sub>End-to-end ML solutions<br/>& strategic implementation</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="60"/>
-<br/>
-<b>Email</b>
-<br/>
-<a href="mailto:zerubroberts@gmail.com">zerubroberts@gmail.com</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/000000/business.png"/>
+<br/><b>Enterprise BI Solutions</b>
+<br/><sub>Tableau, Power BI, Qlik<br/>architecture & deployment</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
-<br/>
-<b>LinkedIn</b>
-<br/>
-<a href="https://linkedin.com/in/zerubroberts">@zerubroberts</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/000000/training.png"/>
+<br/><b>Training & Workshops</b>
+<br/><sub>Upskilling teams in<br/>data analytics & ML</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/phone.png" width="60"/>
-<br/>
-<b>Phone</b>
-<br/>
-<a href="tel:+61402681799">+61 402 681 799</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/000000/collaboration.png"/>
+<br/><b>Strategic Partnerships</b>
+<br/><sub>Long-term data<br/>transformation initiatives</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 📊 GitHub Stats
+### 📬 Get In Touch
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerubroberts&layout=compact&theme=vue&hide_border=true&langs_count=8)
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://zerubroberts.com">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80"/>
+<br/><br/>
+<b>Visit My Website</b>
+<br/>
+<sub>zerubroberts.com</sub>
+<br/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-2E8B57?style=for-the-badge"/>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="mailto:zerubroberts@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/email-open.png" width="80"/>
+<br/><br/>
+<b>Email Me</b>
+<br/>
+<sub>zerubroberts@gmail.com</sub>
+<br/>
+<img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge"/>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://linkedin.com/in/zerubroberts">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
+<br/><br/>
+<b>Connect on LinkedIn</b>
+<br/>
+<sub>@zerubroberts</sub>
+<br/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="tel:+61402681799">
+<img src="https://img.icons8.com/fluency/96/000000/phone.png" width="80"/>
+<br/><br/>
+<b>Call Me</b>
+<br/>
+<sub>+61 402 681 799</sub>
+<br/>
+<img src="https://img.shields.io/badge/Phone-Call_Now-25D366?style=for-the-badge"/>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/zerubroberts">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
+<br/><br/>
+<b>View My Code</b>
+<br/>
+<sub>GitHub Projects</sub>
+<br/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ Quick Response Guarantee
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/clock.png"/>
+<br/><b>24-Hour Response</b>
+<br/><sub>for serious inquiries</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/calendar-plus.png"/>
+<br/><b>Flexible Scheduling</b>
+<br/><sub>across all time zones</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/video-conference.png"/>
+<br/><b>Video Consultations</b>
+<br/><sub>available on request</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/handshake.png"/>
+<br/><b>No-Obligation</b>
+<br/><sub>initial discussion</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-<sub>💡 *Transforming raw data into strategic insights that drive measurable business value*</sub>
+### 📊 GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerubroberts&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=500)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+---
+
+<br/>
+
+**💡 "Data is the new oil, but insights are the refined fuel that powers business success."**
+
+<sub>⭐ If you find my work valuable, consider starring my repositories • 🤝 Open to collaborations and partnerships</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
