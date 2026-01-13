@@ -29,7 +29,7 @@ Designing and deploying enterprise analytics platforms that transform raw data i
 - Real-time reporting systems
 - Requirements gathering & stakeholder engagement
 
-**Stack:** Tableau, Power BI, Qlik Sense, ThoughtSpot
+**Stack:** Tableau, Power BI, Qlik Sense, Mode
 
 </td>
 <td width="33%" valign="top">
@@ -45,7 +45,7 @@ Building production ML systems from concept to deployment. Specialized in NLP, c
 - NLP & text classification
 - A/B testing & experimentation
 
-**Stack:** Python, Scikit-learn, AWS SageMaker, MLFlow, Kubeflow
+**Stack:** Python, Scikit-learn, AWS SageMaker, MLFlow
 
 </td>
 <td width="33%" valign="top">
@@ -61,7 +61,7 @@ Architecting scalable data infrastructure on modern cloud platforms. From data l
 - Real-time data streaming
 - Cost optimization
 
-**Stack:** Snowflake, Databricks, dbt, AWS, Azure
+**Stack:** Snowflake, dbt, AWS, Matillion, Python
 
 </td>
 </tr>
