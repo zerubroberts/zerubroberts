@@ -1,28 +1,10 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Zerub+Roberts;Senior+Data+Consultant" alt="Typing SVG" />
-
-**Building intelligent systems that transform how businesses operate**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zerubroberts)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zerubroberts@gmail.com)
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-8+_Years-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</div>
-
-<br>
+ 
 
 ## About Me
 
-I'm a **Senior Data Consultant** based in Melbourne, Australia, specializing in **Business Intelligence, Analytics, and AI solutions**. With over **8 years of experience**, I help organizations transform complex data challenges into clear, actionable insights that drive real business outcomes.
+I'm a **Senior Data Consultant** based in Melbourne, Australia, specializing in **Business Intelligence, Analytics, and AI solutions**. With over **10 years of experience**, I help organizations transform complex data challenges into clear, actionable insights that drive real business outcomes.
 
-My background spans **ML engineering, predictive analytics, and enterprise BI development** across utilities, fintech, healthcare, and construction sectors. I've delivered 200+ dashboards and multiple production ML systems that drive measurable business impact. Beyond consulting, I actively build **micro-SaaS products** that solve real-world data problems.
+My background spans **AI/ML engineering, predictive analytics, and enterprise BI development** across utilities, fintech, healthcare, and construction sectors. I've delivered 50+ dashboards and multiple production ML systems that drive measurable business impact. Beyond consulting, I actively build **micro-SaaS products** that solve real-world data problems.
 
 What sets my work apart is a focus on **data storytelling**: every model I build, every dashboard I deploy is designed to communicate insights clearly and enable confident decision-making. I'm passionate about turning raw data into narratives that stakeholders can act on, bridging the gap between technical complexity and business value.
 
