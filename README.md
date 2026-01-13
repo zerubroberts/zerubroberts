@@ -22,9 +22,9 @@
 
 I'm a **Senior Data Consultant** based in Melbourne, Australia, specializing in **Business Intelligence, Analytics, and AI solutions**. With over **8 years of experience**, I help organizations transform complex data challenges into clear, actionable insights that drive real business outcomes.
 
-My background spans **ML engineering, predictive analytics, and enterprise BI development** across utilities, fintech, healthcare, and construction sectors. I've delivered solutions that generated **$2M+ in documented cost savings** and built 200+ dashboards for Fortune 500 clients. Beyond consulting, I actively build **micro-SaaS products** that solve real-world data problems.
+My background spans **ML engineering, predictive analytics, and enterprise BI development** across utilities, fintech, healthcare, and construction sectors. I've delivered 200+ dashboards and multiple production ML systems that drive measurable business impact. Beyond consulting, I actively build **micro-SaaS products** that solve real-world data problems.
 
-What sets my work apart is a focus on **data storytelling**: every model I build, every dashboard I deploy is designed to communicate insights clearly and enable confident decision-making. I also train professionals from organizations like Amazon and Walmart, having mentored **500+ students** with a **4.9/5.0 instructor rating**.
+What sets my work apart is a focus on **data storytelling**: every model I build, every dashboard I deploy is designed to communicate insights clearly and enable confident decision-making. I'm passionate about turning raw data into narratives that stakeholders can act on, bridging the gap between technical complexity and business value.
 
 <br>
 
@@ -38,14 +38,14 @@ What sets my work apart is a focus on **data storytelling**: every model I build
 
 ### Business Intelligence
 
-Designing and deploying enterprise analytics platforms that transform raw data into strategic insights. 200+ dashboards delivered across Fortune 500 clients with a focus on clear data storytelling.
+Designing and deploying enterprise analytics platforms that transform raw data into strategic insights. 200+ dashboards delivered with a focus on clear data storytelling and actionable reporting.
 
 **Capabilities:**
 - Executive dashboard design
 - Self-service analytics platforms
 - Data modeling & optimization
 - Real-time reporting systems
-- Training & enablement
+- Requirements gathering & stakeholder engagement
 
 **Stack:** Tableau, Power BI, Qlik Sense, ThoughtSpot
 
@@ -164,7 +164,7 @@ I designed and built an end-to-end NLP solution using AWS SageMaker that automat
 | Metric | Impact |
 |:-------|:-------|
 | Email Deflection | 40% of emails handled automatically |
-| Cost Savings | $2M+ annually |
+| Cost Savings | Significant annual operational savings |
 | Processing Time | Reduced from hours to seconds |
 | Accuracy | 70%+ classification accuracy |
 
@@ -339,7 +339,7 @@ The system integrates directly with roster management software, enabling operati
 
 ## 📦 Open Source Contributions
 
-I maintain several open-source extensions for the Qlik Sense platform:
+I am currently building and maintaining several open-source extensions for the Qlik Sense platform:
 
 <table>
 <tr>
@@ -389,11 +389,11 @@ Projects I've led that have been featured in customer success stories and indust
 
 | Project | Description |
 |:--------|:------------|
-| **Australian National University Energy Monitoring Dashboard** | Led the design and development of the ANU energy analytics platform as part of the ANU Below Zero sustainability initiative. Won Qlik APAC Partner of the Year. |
-| **InDebted ML Collections Strategy** | Technical deep-dive on a collections optimization system I built that improved strategy effectiveness by 30% using machine learning. |
-| **ABC News ANZSCO Analysis** | Data analysis I conducted that was featured in national coverage of ANZSCO occupation classification updates. |
-| **Energy Safe Victoria Analytics Platform** | Case study of the safety compliance analytics platform I designed and delivered for Energy Safe Victoria. |
-| **6clicks Power BI Implementation** | Built the entire Power BI analytics stack for 6clicks solo, establishing their enterprise reporting capabilities from the ground up. |
+| **[Australian National University Energy Monitoring Dashboard](https://www.qlik.com/us/solutions/customers/customer-stories/australian-national-university)** | Led the design and development of the ANU energy analytics platform as part of the ANU Below Zero sustainability initiative. Won Qlik APAC Partner of the Year. |
+| **[InDebted ML Collections Strategy](https://www.indebted.co/blog/guides/improving-collections-strategy-by-30-with-machine-learning/)** | Technical deep-dive on a collections optimization system I built that improved strategy effectiveness by 30% using machine learning. |
+| **[ABC News ANZSCO Analysis](https://www.abc.net.au/news/2019-08-17/anzsco-occupation-lists-need-updating/11413518)** | Data analysis I conducted that was featured in national coverage of ANZSCO occupation classification updates. |
+| **[Energy Safe Victoria Analytics Platform](https://safetyinsights.au/case-studies/energysafevictoria)** | Case study of the safety compliance analytics platform I designed and delivered for Energy Safe Victoria. |
+| **[6clicks Power BI Implementation](https://www.6clicks.com/resources/blog/introducing-the-new-6clicks-dashboards-on-power-bi)** | Built the entire Power BI analytics stack for 6clicks solo, establishing their enterprise reporting capabilities from the ground up. |
 
 <br>
 
@@ -403,11 +403,11 @@ Projects I've led that have been featured in customer success stories and indust
 
 <div align="center">
 
-I'm always interested in discussing challenging data problems, potential collaborations, or consulting opportunities. Whether you're looking to build production ML systems, transform your analytics capabilities, or upskill your team, I'd enjoy exploring how I can help.
+I'm always interested in discussing challenging data problems, potential collaborations, or consulting opportunities. Whether you're looking to build production ML systems, transform your analytics capabilities, or explore new data-driven solutions, I'd enjoy exploring how I can help.
 
 <br><br>
 
-**Available for:** Consulting · Enterprise Projects · Training & Workshops · Advisory
+**Available for:** Consulting · Enterprise Projects · Product Development · Advisory
 
 <br>
 
