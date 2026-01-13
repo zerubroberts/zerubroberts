@@ -90,6 +90,59 @@ Architecting scalable data infrastructure on modern cloud platforms. From data l
 
 ---
 
+## 🔧 Products I'm Currently Building
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/rugby.png" width="50"/>
+<br><br>
+<a href="https://www.nrltips.com"><b>NRL Tip Tracker</b></a>
+<br>
+<sub>Track and analyze NRL tipping competitions with data-driven insights and predictions.</sub>
+<br><br>
+<a href="https://www.nrltips.com">
+<img src="https://img.shields.io/badge/Live-Visit_Site-10B981?style=flat-square"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/risk.png" width="50"/>
+<br><br>
+<b>RiskVue</b>
+<br>
+<sub>Enhanced risk reporting platform for visualizing and managing organizational risk matrices.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/split.png" width="50"/>
+<br><br>
+<a href="https://ab-testing-che70fsr4-zerub-roberts-muthyalas-projects.vercel.app/"><b>SplitSpark</b></a>
+<br>
+<sub>A/B testing visualization tool for analyzing experiment results with statistical rigor.</sub>
+<br><br>
+<a href="https://ab-testing-che70fsr4-zerub-roberts-muthyalas-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Try_Demo-10B981?style=flat-square"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/80/document.png" width="50"/>
+<br><br>
+<a href="https://qlik-reporting-automation.vercel.app/"><b>ReportForge</b></a>
+<br>
+<sub>Turn Qlik data into stunning ready-to-share HTML reports with one click.</sub>
+<br><br>
+<a href="https://qlik-reporting-automation.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Try_Demo-10B981?style=flat-square"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 ## 🚀 Featured Projects
 
 ### Intelligent Email Triage System
