@@ -364,22 +364,7 @@ I am currently building and maintaining several open-source extensions for the Q
 <br>
 
 ---
-
-## 📰 Featured Work & Media
-
-Projects I've led that have been featured in customer success stories and industry publications:
-
-| Project | Description |
-|:--------|:------------|
-| **[Australian National University Energy Monitoring Dashboard](https://www.qlik.com/us/solutions/customers/customer-stories/australian-national-university)** | Led the design and development of the ANU energy analytics platform as part of the ANU Below Zero sustainability initiative. Won Qlik APAC Partner of the Year. |
-| **[InDebted ML Collections Strategy](https://www.indebted.co/blog/guides/improving-collections-strategy-by-30-with-machine-learning/)** | Technical deep-dive on a collections optimization system I built that improved strategy effectiveness by 30% using machine learning. |
-| **[ABC News ANZSCO Analysis](https://www.abc.net.au/news/2019-08-17/anzsco-occupation-lists-need-updating/11413518)** | Data analysis I conducted that was featured in national coverage of ANZSCO occupation classification updates. |
-| **[Energy Safe Victoria Analytics Platform](https://safetyinsights.au/case-studies/energysafevictoria)** | Case study of the safety compliance analytics platform I designed and delivered for Energy Safe Victoria. |
-| **[6clicks Power BI Implementation](https://www.6clicks.com/resources/blog/introducing-the-new-6clicks-dashboards-on-power-bi)** | Built the entire Power BI analytics stack for 6clicks solo, establishing their enterprise reporting capabilities from the ground up. |
-
-<br>
-
----
+ 
 
 ## 📬 Let's Connect
 
